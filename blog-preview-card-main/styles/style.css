@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(255, 228, 92);
-    font-family: "Roboto", sans-serif;
+    background-color: hsl(47, 88%, 63%);
+    font-family: "Figtree", sans-serif;
 }
 
 .container {
@@ -29,7 +29,7 @@ body {
 
 .learning-container {
     width: fit-content;
-    background-color: rgb(255, 228, 92);
+    background-color: hsl(47, 88%, 63%);
     font-weight: 900;
     padding: 10px;
     border-radius: 5px;
@@ -45,7 +45,7 @@ body {
 }
 
 .content-container {
-    color: grey;
+    color: hsl(0, 0%, 50%);
 }
 
 .profile-container {
