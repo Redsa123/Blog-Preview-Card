@@ -1,0 +1,38 @@
+@media screen and (max-width: 768px) {
+    .container {
+        margin: 0;
+        padding: 10px;
+    }
+
+    .card {
+        width: 80%;
+        margin: 0 auto;
+        gap: 10px;
+    }
+
+    .learning-container {
+        padding: 5px;
+        border-radius: 3px;
+        font-size: 10px;
+    }
+
+    .date-container {
+        font-weight: 700;
+        font-size: 10px;
+    }
+
+    .title-container {
+        font-size: 14px;
+        font-weight: 900;
+    }
+
+    .content-container {
+        font-size: 10px;
+        color: hsl(0, 0%, 50%);
+    }
+
+    .profile-container {
+        font-size: 10px;
+        gap: 10px;
+    }
+}
