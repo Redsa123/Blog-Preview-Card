@@ -42,6 +42,11 @@ body {
 .title-container {
     font-size: 26px;
     font-weight: 900;
+    transition: 0.3;
+}
+
+.title-container:hover {
+    color:hsl(47, 88%, 63%);
 }
 
 .content-container {
